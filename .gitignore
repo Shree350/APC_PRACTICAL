@@ -1,0 +1,7 @@
+
+APC_PROJECT_ARU/
+*.zip
+*.pdf
+uploads/
+.dist/
+PRACTICE/.git/
