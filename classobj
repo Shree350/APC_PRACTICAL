@@ -1,0 +1,40 @@
+
+# class Student:
+#     def __init__(self, name, roll):
+#         self.name = name
+#         self.roll = roll
+
+#     def display(self):
+#         print("Name:", self.name)
+#         print("Roll No:", self.roll)
+
+# s1 = Student("Rahul", 101)
+# s1.display()
+
+
+# class Student:
+#     def __init__(self, name, roll):
+#         self.name = name
+#         self.roll = roll
+
+#     def display(self):
+#         print("Name:", self.name)
+#         print("Roll No:", self.roll)
+
+# s1 = Student("Rahul", 101)
+# s1.display()
+
+
+class Car:
+    def __init__(self, brand, price):
+        self.brand = brand
+        self.price = price
+
+    def display(self):
+        print("Brand:", self.brand)
+        print("Price:", self.price)
+
+c1 = Car("BMW", 5000000)
+c1.display()
+
+
